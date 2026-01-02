@@ -1,0 +1,11 @@
+node_modules
+.git
+.expo
+.expo-shared
+android/.gradle
+android/build
+android/app/build
+ios
+coverage
+*.log
+.env
